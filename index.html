@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kepala Stasiun: Train Times in English</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="stage"></div>
+<div id="rotate"><div class="rbox"><svg width="120" height="120" viewBox="0 0 120 120" aria-hidden="true"><rect x="30" y="14" width="60" height="92" rx="12" fill="none" stroke="#FFF3D6" stroke-width="6"/><path d="M96 36 a30 30 0 0 1 0 48" fill="none" stroke="#F4B73F" stroke-width="6" stroke-linecap="round"/><path d="M92 86 l8 -8 l4 11z" fill="#F4B73F"/></svg><p id="rotmsg"></p></div></div>
+<script src="config/jadwal.js"></script>
+<script src="js/data/strings.js"></script>
+<script src="js/data/assets.js"></script>
+<script src="js/data/img-sertifikat.js"></script>
+<script src="js/engine/waktu.js"></script>
+<script src="js/data/gen.js"></script>
+<script src="js/engine/core.js"></script>
+<script src="js/engine/audio.js"></script>
+<script src="js/engine/speech.js"></script>
+<script src="js/engine/art.js"></script>
+<script src="js/engine/clock.js"></script>
+<script src="js/engine/ui.js"></script>
+<script src="js/scenes/muat.js"></script>
+<script src="js/scenes/title.js"></script>
+<script src="js/scenes/play.js"></script>
+<script src="js/scenes/result.js"></script>
+<script src="js/scenes/cert.js"></script>
+<script>document.getElementById('rotmsg').textContent = window.KS_STR.putar;</script>
+<script src="js/main.js"></script>
+</body>
+</html>
