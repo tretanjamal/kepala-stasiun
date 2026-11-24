@@ -1,4 +1,4 @@
-# Kepala Stasiun: Train Times in English
+# Kepala Stasiun: Belajar Jam dalam Bahasa Inggris
 
 Gim edukasi Bahasa Inggris SD tentang waktu dan jadwal: *seven o'clock*, *half past seven*, *quarter past* dan *quarter to*, serta hari dalam seminggu. Murid menjadi kepala stasiun cilik: mendengarkan pengumuman, memasang jam di papan keberangkatan, meniup peluit tepat waktu, dan menjawab pertanyaan penumpang.
 

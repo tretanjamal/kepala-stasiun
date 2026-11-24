@@ -21,7 +21,7 @@ img.bg{position:absolute;inset:0;width:1280px;height:720px;object-fit:cover}
 .panel{position:absolute;background:var(--putih);border:var(--garis) solid var(--tinta);border-radius:28px;box-shadow:0 8px 0 rgba(58,42,31,.35)}
 .reduce *{animation:none!important}
 /* ---- judul ---- */
-.title .tagline{position:absolute;left:408px;top:292px;width:440px;height:52px;display:flex;align-items:center;justify-content:center;background:var(--hijau);color:var(--putih);border:var(--garis) solid var(--tinta);border-radius:26px;font:700 26px/1 var(--f);letter-spacing:.5px;box-shadow:0 6px 0 rgba(58,42,31,.45)}
+.title .tagline{position:absolute;left:353px;top:292px;width:550px;height:52px;display:flex;align-items:center;justify-content:center;background:var(--hijau);color:var(--putih);border:var(--garis) solid var(--tinta);border-radius:26px;font:700 26px/1 var(--f);letter-spacing:.5px;box-shadow:0 6px 0 rgba(58,42,31,.45)}
 .corner{position:absolute;right:20px;top:14px;display:flex;gap:12px;z-index:6}.corner .btn{position:static;width:64px;min-width:64px;height:64px;padding:0}
 .strip{left:36px;top:586px;width:1208px;height:112px;background:rgba(255,243,214,.94);display:flex;align-items:center;justify-content:space-between;padding:0 22px;gap:14px}
 .strip .btn{position:static}

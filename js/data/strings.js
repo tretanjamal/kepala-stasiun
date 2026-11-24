@@ -1,7 +1,7 @@
 /* Semua teks UI di sini agar mudah ditinjau guru. */
 window.KS_STR = {
   judul: 'Kepala Stasiun',
-  tagline: 'Train Times in English',
+  tagline: 'Belajar Jam dalam Bahasa Inggris',
   btn: { mulai: 'Mulai', santai: 'Mode Santai', info: 'Informasi', ref: 'Referensi', dev: 'Pengembang',
     kembali: 'Kembali', pasang: 'Pasang', peluit: 'Tiup Peluit', percepat: 'Percepat', dengar: 'Dengar lagi',
     pelan: 'Lebih pelan', lagi: 'Main lagi', menu: 'Menu', lanjut: 'Lanjut', lewati: 'Lewati petunjuk',

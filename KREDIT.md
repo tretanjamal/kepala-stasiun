@@ -1,4 +1,4 @@
-# KREDIT: Kepala Stasiun: Train Times in English
+# KREDIT: Kepala Stasiun: Belajar Jam dalam Bahasa Inggris
 Pengembang: Jamaluddin (UPTD SMPN 2 Robatal) dan Ike Kartika Sari (Guru UPTD SDN Gunung Sekar 1). Tahun 2026.
 Rujukan materi: Kepka BSKAP 046/H/KR/2025; Emilia, Wijayanti dkk. (2025) Panduan Mata Pelajaran Bahasa Inggris Fase B-F.
 Rujukan AI: Purwarianti dkk. (2025) Panduan Pemanfaatan Kecerdasan Artifisial untuk Guru PAUD, Dikdas, dan Dikmen.
